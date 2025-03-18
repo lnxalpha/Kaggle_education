@@ -1,1 +1,1 @@
-contents from kaggles ML intro course
+Contents from kaggle's ML intro course
